@@ -1,1 +1,3 @@
 # Dissipation-bounds-the-amplification-of-transition-rates-far-from-equilibrium
+
+This repository contains code and data to reproduce plots and run simulations from the examples/figures in our paper 'Dissipation bounds the amplification of transition rates far from equilibrium' https://arxiv.org/abs/2009.04481 . The plots folder contains all data featured in our main text and SI plots, which can be reprocuded by running the '_make.py' scripts. The simulations folder contains a script to run Brownian Dynamics simulations and compute the reactive heat and time-dependent rate amplification from them.
